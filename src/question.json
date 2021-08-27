@@ -1,0 +1,136 @@
+[
+    {
+        "question": "祝日",
+        "optionA": "しゅくか",
+        "optionB": "しゅくにち",
+        "optionC": "しゅくひ",
+        "optionD": "しゅくじつ",
+        "answer": "しゅくじつ"
+    },
+
+    {
+        "question": "工場",
+        "optionA": "こじょう",
+        "optionB": "こうじょ",
+        "optionC": "こうじょう",
+        "optionD": "こじょ",
+        "answer": "こうじょう"
+    },
+
+    {
+        "question": "道路",
+        "optionA": "どろ",
+        "optionB": "みちろ",
+        "optionC": "どうろ",
+        "optionD": "みちろう",
+        "answer": "どうろ"
+    },
+
+    {
+        "question": "村",
+        "optionA": "まち",
+        "optionB": "えき",
+        "optionC": "むら",
+        "optionD": "うち",
+        "answer": "むら"
+    },
+
+    {
+        "question": "弟",
+        "optionA": "おとおと",
+        "optionB": "おとうと",
+        "optionC": "いもおと",
+        "optionD": "いもうと",
+        "answer": "おとうと"
+    },
+
+    {
+        "question": "人間",
+        "optionA": "じんげん",
+        "optionB": "にんかん",
+        "optionC": "にんげん",
+        "optionD": "じんかん",
+        "answer": "にんげん"
+    },
+
+    {
+        "question": "しめして",
+        "optionA": "示して",
+        "optionB": "表して",
+        "optionC": "占して",
+        "optionD": "告して",
+        "answer": "示して"
+    },
+
+    {
+        "question": "綿",
+        "optionA": "わた",
+        "optionB": "きん",
+        "optionC": "きぬ",
+        "optionD": "せん",
+        "answer": "わた"
+    },
+
+    {
+        "question": "沸騰",
+        "optionA": "ふつしょう",
+        "optionB": "ふっとう",
+        "optionC": "ぶっどう",
+        "optionD": "ぶつしょう",
+        "answer": "ふっとう"
+    },
+
+    {
+        "question": "強盗",
+        "optionA": "ごとう",
+        "optionB": "きょうどう",
+        "optionC": "ごうとう",
+        "optionD": "ごうどう",
+        "answer": "ごうどう"
+    },
+
+    {
+        "question": "うやまう",
+        "optionA": "尊う",
+        "optionB": "礼う",
+        "optionC": "敬う",
+        "optionD": "貴う",
+        "answer": "敬う"
+    },
+
+    {
+        "question": "しゅっせ",
+        "optionA": "昇世",
+        "optionB": "出世",
+        "optionC": "昇成",
+        "optionD": "出成",
+        "answer": "出世"
+    },
+
+    {
+        "question": "台所",
+        "optionA": "たいどころ",
+        "optionB": "だいところ",
+        "optionC": "たいところ",
+        "optionD": "だいどころ",
+        "answer": "だいどころ"
+    },
+
+    {
+        "question": "病人",
+        "optionA": "びょうしん",
+        "optionB": "びょうにん",
+        "optionC": "びょうじん",
+        "optionD": "びょういん",
+        "answer": "びょうにん"
+    },
+
+    {
+        "question": "停止",
+        "optionA": "ていし",
+        "optionB": "ていじ",
+        "optionC": "てし",
+        "optionD": "てしい",
+        "answer": "ていし"
+    }
+]
